@@ -6,4 +6,4 @@ This is a simple sample of HD Wallet which is using the standard of [bip44](http
 ### [hdkey](https://www.npmjs.com/package/hdkey) 
 ### [ethereumjs-util](https://www.npmjs.com/package/ethereumjs-util) 
 ### [ethereumjs-tx](https://www.npmjs.com/package/ethereumjs-tx) 
-### [file-system](https://www.npmjs.com/package/file-system) 
+### [fs](https://www.npmjs.com/package/node-fs) 
